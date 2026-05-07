@@ -1,0 +1,74 @@
+#mi-encabezado{
+    background-image: url('mine006.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 35rem;
+
+    color: #110203;
+    text-orientation: upright;
+    text-align: center;
+    padding: 20px;
+}
+
+#mi-ecabezado h1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mi-encabezado p{
+    font-size:25px;   
+}
+
+nav{
+    background-color: rgb(4, 179, 192);
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: background-color 0.5s;
+}
+
+ul{
+    list-style-type: none;
+    text-align: right;
+    margin-right: 3rem;
+}
+
+li{
+    display: inline;
+    margin-right: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #fffdfd;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #000000;
+}
+
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteido{
+    color: #000000;
+    font-size: 20px;
+    padding: 5%;
+    text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    background-color: rgb(5,43,150);
+    padding: 10rem;
+    color: #fffdfd;
+    color: #ffffff;
+    text-align: center;
+}
