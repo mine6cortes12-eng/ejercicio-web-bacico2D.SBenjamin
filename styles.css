@@ -4,7 +4,7 @@
     background-position: center;
     height: 35rem;
 
-    color: #110203;
+    color: #fcfbfb;
     text-orientation: upright;
     text-align: center;
     padding: 20px;
@@ -42,12 +42,12 @@ li{
 
 a{
     text-decoration: none;
-    color: #099fb9;
+    color: #000000;
     font-weight: bold;
 }
 
 a:hover{
-    color: #000000;
+    color: #58c70e;
 }
 
 body{
@@ -67,7 +67,7 @@ body{
 
 .footer{
     background-color: rgb(5,43,150);
-    padding: 10rem;
+    padding: 3rem;
     color: #14d6cc;
     color: #ffffff;
     text-align: center;
