@@ -8,4 +8,4 @@ window.addEventListener("scroll", () => {
         else{
             menu.style.backgroundColor = "rgba(0, 0, 0, 0)";
         }
-    });
+    }); 

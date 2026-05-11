@@ -20,7 +20,7 @@
 }
 
 nav{
-    background-color: rgb(4, 179, 192);
+    background-color: rgba(44, 245, 211, 0);
     padding: 20px;
     position: fixed;
     top: 0;
@@ -51,7 +51,7 @@ a:hover{
 }
 
 body{
-    margin-top: 0px;
+    margin-top: 70px;
     margin-left: 0px;
     margin-right: 0px;
     font-family: Arial, Helvetica, sans-serif;
@@ -67,7 +67,7 @@ body{
 
 .footer{
     background-color: rgb(5,43,150);
-    padding: 3rem;
+    padding: 2rem;
     color: #14d6cc;
     color: #ffffff;
     text-align: center;
